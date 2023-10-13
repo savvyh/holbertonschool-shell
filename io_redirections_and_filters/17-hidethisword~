@@ -1,2 +1,0 @@
-#!/bin/bash
-ls --ignore=bin /etc/passwd
